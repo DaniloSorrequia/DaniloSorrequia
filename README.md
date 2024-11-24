@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DaniloSorrequia
-- 👀 I’m interested in Ruby on Rails, Vue.js, and DataBase SQL/NoSQL
-- 🌱 I’m currently learning Programming logic and Basic of Ruby on Rails
+- 👀 I’m interested in C/C++
+- 🌱 I’m currently learning Programming logic and Basic of C/C++
 - 💞️ I’m looking to collaborate on nothing for now
 - 📫 How to reach me: danilo_sorrequia@hotmail.com
 
